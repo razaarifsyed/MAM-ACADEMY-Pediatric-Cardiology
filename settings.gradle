@@ -1,0 +1,2 @@
+rootProject.name='Pediatric Cardiology'
+include ':app'

@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "39870003912",
+    "firebase_url": "https://mamacademy-43f2b.firebaseio.com",
+    "project_id": "mamacademy-43f2b",
+    "storage_bucket": "mamacademy-43f2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39870003912:android:12350efc83f3c0a6eb43fd",
+        "android_client_info": {
+          "package_name": "com.example.arifraza.mam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39870003912-sk9b6iko3cvkgh2d9bh6v6thv0h3hjft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2LXoCrCEQDu3ZzoNAjsazvoW43-KVdOI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39870003912-sk9b6iko3cvkgh2d9bh6v6thv0h3hjft.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39870003912:android:a13a0e74263e6de4eb43fd",
+        "android_client_info": {
+          "package_name": "com.example.arifraza.pediatriccardiology"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39870003912-sk9b6iko3cvkgh2d9bh6v6thv0h3hjft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2LXoCrCEQDu3ZzoNAjsazvoW43-KVdOI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39870003912-sk9b6iko3cvkgh2d9bh6v6thv0h3hjft.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

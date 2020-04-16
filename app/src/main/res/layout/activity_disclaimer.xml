@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".disclaimer">
+
+    <TextView
+        android:id="@+id/textView19"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="By downloading, accessing or using MAM Academy Mobile App or any page of this app, you signify your assent to this disclaimer. The contents of this app, including without limitation, all data, information, text, graphics, links and other materials are provided as a convenience to our app users and are meant to be used for informational purposes only. We do not take responsibility for decisions taken by the reader based solely on the information provided in this app.
+
+The app EXPRESSLY DISCLAIMS ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED. The app makes no warranty that (1) THE APP OR THE CONTENT WILL MEET OR SATISFY YOUR REQUIREMENTS (2) THE APP SHALL HAVE NO RESPONSIBILITY FOR ANY DAMAGE TO YOUR PHONE OR TABLET OR LOSS OF DATA THAT RESULTS FROM YOUR USE OF THE APP OR ITS CONTENT.
+
+YOU AGREE TO HOLD HARMLESS MAM ACADEMY MOBILE APP, AND EACH OF ITS MANAGER FROM AND AGAINST ANY AND ALL CLAIMS, ACTIONS, DEMANDS, LIABILITIES, JUDGMENTS AND SETTLEMENTS, INCLUDING WITHOUT LIMITATION, FROM ANY DIRECT, INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, EXEMPLARY, PUNITIVE OR ANY OTHER CLAIM YOU MAY INCUR IN CONNECTION WITH YOUR USE OF THIS APP, INCLUDING, WITHOUT LIMITATION, ANY ECONOMIC HARM, LOST PROFITS, DAMAGES TO BUSINESS, DATA OR PHONE SYSTEMS, OR ANY DAMAGES RESULTING FROM RELIANCE ON ANY CONTENT OR RESULTING FROM ANY INTERRUPTIONS, WORK STOPPAGES, PHONE OR TABLET FAILURES,DELETION OF FILES, ERRORS, OMISSIONS, INACCURACIES, DEFECTS, VIRUSES, DELAYS OR MISTAKES OF ANY KIND.
+
+The app may include inaccuracies and typographical errors. Changes and improvements are periodically made to the app and the information therein. We do not warrant or assume any legal liability or responsibility for the completeness, or usefulness of any information, service."
+        android:textSize="9sp"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="117dp" />
+</androidx.constraintlayout.widget.ConstraintLayout>

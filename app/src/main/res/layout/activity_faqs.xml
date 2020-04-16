@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".faqs">
+
+    <TextView
+        android:id="@+id/textView13"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+
+        android:text="\n\nFAQ\n\nFrequently Asked Questions\n\n\n\n\n
+
+
+Q-How to change my profile information? \n
+  A: Tap 'MESSAGE US' or email to inform us.\n\n
+  Q:How to delete my account?\n
+  A:Tap 'MESSAGE US' or email us for the same\n\n
+  Q:Are we on other platforms like IOS,MacOS?\n
+  A:No. Not as of now.\n\n
+  Q:Do we have social media pages?\n
+  A:Yes, look for the Instagram button at the top of home page.\n\n
+  Q:What is our Email-ID?\n
+  A:mamacademy786@gmail.com\n\n
+
+
+
+
+
+
+
+
+"
+
+
+        android:textColor="@android:color/black"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="16dp" />
+</androidx.constraintlayout.widget.ConstraintLayout>

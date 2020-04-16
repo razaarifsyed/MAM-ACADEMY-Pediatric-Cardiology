@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".prvcy">
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+
+        android:text="Privacy Policy
+Effective Date: April 6,, 2020
+
+MAM Academy operates the MAM ACADEMY mobile application Personal Data. The information that we request will be retained by us and used as described in this privacy policy. Personally identifiable information may include, but is not limited to:
+
+Email address,name,Phone number,country, qualification,Usage Data
+The app does use third party services that may collect information used to identify you.
+
+Link to privacy policy of third party service providers used by the app
+
+Google Play ServicesFirebase AnalyticsFabricLog Data
+We want to inform you that whenever you use our Service, in case of an error in the app we collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your devices Internet Protocol address, device name, operating system version, configuration of the app when utilising our Service, the time and date of your use of the Service, and other statistics.
+
+Whatever data that we do store, is only stored in Google's Firebase realtime Database. Our videos are hosted on Google's Youtube servers. We don't use any other service for data storage. So you must agree to Google storing your data.
+
+Use of Data
+MAM ACADEMY uses the collected data for various purposes:
+
+To provide you a more personalized experience. By forming your account app account. Also to give the tutors a better idea about the usage of the app.
+
+Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+
+MAM ACADEMY will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organisation unless there are adequate controls in place including the security of your data and other personal information.
+
+Disclosure Of DataLegal Requirements
+MAM ACADEMY may disclose your Personal Data in the good faith belief that such action is necessary to:
+
+To comply with a legal obligationTo protect and defend the rights or property of MAM ACADEMY.To prevent or investigate possible wrongdoing in connection with the ServiceTo protect the personal safety of users of the Service or the publicTo protect against legal liabilitySecurity Of Data
+The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.
+
+Analytics
+We may use third-party Service Providers to monitor and analyze the use of our Service.
+
+Firebase
+Firebase is analytics service provided by Google Inc. It collects your mobile Android Advertising ID for analytics purpose. The app notifications are sent using Firebase tool.
+
+You may opt-out of certain Firebase features through your mobile device settings, such as your device advertising settings or by following the instructions provided by Google in their Privacy Policy
+
+We also encourage you to review the Google's policy for safeguarding your data For more information on what type of information Firebase collects, please visit please visit the Google Privacy  Terms web page.
+
+Changes To This Privacy Policy
+We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. These changes are effective immediately after they are posted on this page.
+
+Contact Us
+If you have any questions about this Privacy Policy, please contact us:
+
+By email: mamacademy786@gmail.com"
+
+
+        android:textSize="8sp"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="16dp" />
+</androidx.constraintlayout.widget.ConstraintLayout>

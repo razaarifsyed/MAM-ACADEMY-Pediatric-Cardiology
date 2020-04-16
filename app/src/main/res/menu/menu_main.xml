@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".activities.BaseActivity">
+
+
+    <item
+        android:id="@+id/m1"
+        android:icon="@android:drawable/btn_star_big_on"
+
+        android:title="Signed in As:" />
+
+    <item
+        android:id="@+id/m2"
+        android:title="My Profile"
+
+
+        />
+
+    <item
+        android:id="@+id/m3"
+        android:title="Disclaimer"
+
+
+        />
+
+    <item
+        android:id="@+id/m4"
+        android:title="Privacy Policy"
+
+
+        />
+
+
+
+
+
+
+    <item
+        android:id="@+id/m5"
+        android:title="About Us!"
+
+
+        />
+
+
+    <item
+
+        android:id="@+id/m7"
+        android:icon="@drawable/igg"
+        android:title="Like us on Instagram"
+        app:showAsAction="always|withText"
+
+
+        />
+
+
+
+
+    <item
+        android:id="@+id/m9"
+        android:title="FAQ"
+
+
+        />
+
+
+
+    <item
+        android:id="@+id/m6"
+        android:title="Sign Out"
+
+
+        />
+
+
+</menu>

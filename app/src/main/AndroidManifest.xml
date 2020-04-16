@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.arifraza.pediatriccardiology">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/icnnn"
+        android:label="Pediatric Cardiology"
+        android:roundIcon="@mipmap/icnnn_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".pushnt" />
+        <activity android:name=".faqs" />
+        <activity android:name=".passw" />
+        <activity android:name=".admin" />
+        <activity android:name=".cmessage2" />
+        <activity android:name=".mkform" />
+        <activity android:name=".forum" />
+        <activity android:name=".setn" />
+        <activity android:name=".notice" />
+        <activity android:name=".bltn" />
+        <activity android:name=".prvcy" />
+        <activity android:name=".myprof" />
+        <activity android:name=".disclaimer" />
+        <activity android:name=".rmessage" />
+        <activity android:name=".myenq" />
+        <activity android:name=".cmessage" />
+        <activity android:name=".comnt1" />
+        <activity android:name=".cusrs" />
+        <activity android:name=".desc" />
+        <activity
+            android:name=".video"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity android:name=".addlec" />
+        <activity android:name=".lectures" />
+        <activity android:name=".SignUpActivity" />
+        <activity android:name=".ProfileActivity" />
+        <activity android:name=".MainActivity" />
+        <activity android:name=".MainActivitynew">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
